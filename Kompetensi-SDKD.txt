@@ -1,0 +1,5 @@
+Kompetensi SDKD
+a. komunikasi Daring sinkron
+   - Line
+b. Komunikasi Daring Asinkron
+   - Email
